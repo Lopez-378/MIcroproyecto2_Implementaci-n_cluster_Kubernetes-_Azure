@@ -161,7 +161,8 @@ minikube stop
 
 ## Teoría
 
-https://gemini.google.com/share/9b58be4d5fbb
+- https://learn.microsoft.com/es-es/azure/aks/learn/quick-kubernetes-deploy-portal?tabs=azure-cli
+- https://opensource.com/article/20/9/deep-learning-model-kubernetes
 
 ### Métricas
 
